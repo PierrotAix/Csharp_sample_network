@@ -1,0 +1,7 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\bin\Debug\07_Serialisation_binaire.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\bin\Debug\07_Serialisation_binaire.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\bin\Debug\07_Serialisation_binaire.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\obj\Debug\07_Serialisation_binaire.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\obj\Debug\07_Serialisation_binaire.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\obj\Debug\07_Serialisation_binaire.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\07_Serialisation_binaire\obj\Debug\07_Serialisation_binaire.pdb

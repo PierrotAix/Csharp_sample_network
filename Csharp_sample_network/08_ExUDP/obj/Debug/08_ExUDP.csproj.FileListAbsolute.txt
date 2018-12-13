@@ -1,0 +1,7 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\bin\Debug\08_ExUDP.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\bin\Debug\08_ExUDP.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\bin\Debug\08_ExUDP.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\obj\Debug\08_ExUDP.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\obj\Debug\08_ExUDP.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\obj\Debug\08_ExUDP.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\08_ExUDP\obj\Debug\08_ExUDP.pdb

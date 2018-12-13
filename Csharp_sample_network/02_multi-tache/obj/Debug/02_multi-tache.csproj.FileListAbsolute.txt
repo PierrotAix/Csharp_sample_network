@@ -1,0 +1,7 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\bin\Debug\02_multi-tache.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\bin\Debug\02_multi-tache.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\bin\Debug\02_multi-tache.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\obj\Debug\02_multi-tache.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\obj\Debug\02_multi-tache.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\obj\Debug\02_multi-tache.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\02_multi-tache\obj\Debug\02_multi-tache.pdb

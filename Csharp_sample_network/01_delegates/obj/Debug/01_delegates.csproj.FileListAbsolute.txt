@@ -1,0 +1,7 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\bin\Debug\01_delegates.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\bin\Debug\01_delegates.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\bin\Debug\01_delegates.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\obj\Debug\01_delegates.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\obj\Debug\01_delegates.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\obj\Debug\01_delegates.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\01_delegates\obj\Debug\01_delegates.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonneSimple xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonneSimple>
+    <Nom>Larivière</Nom>
+    <Prenom>Germain</Prenom>
+  </PersonneSimple>
+  <PersonneSimple>
+    <Nom>Dancereau</Nom>
+    <Prenom>Nancy</Prenom>
+  </PersonneSimple>
+</ArrayOfPersonneSimple>

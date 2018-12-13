@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonnage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personnage xsi:type="Magicien">
+    <Nom>Galgutta</Nom>
+    <Niveau>12</Niveau>
+    <PointVie>58</PointVie>
+    <PointMagie>200</PointMagie>
+    <NomBaguette>ombra</NomBaguette>
+  </Personnage>
+  <Personnage xsi:type="Guerrier">
+    <Nom>Ulgur</Nom>
+    <Niveau>14</Niveau>
+    <PointVie>200</PointVie>
+    <Force>62</Force>
+    <NomEpee>Destructor</NomEpee>
+  </Personnage>
+</ArrayOfPersonnage>

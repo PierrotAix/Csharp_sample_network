@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Personne xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Nom="DEspotins" Prenom="Yvan" Age="55">
+  <Adresse Numero="12" Rue=" des saules" Ville="Montréal" Pays="CANADA" />
+</Personne>

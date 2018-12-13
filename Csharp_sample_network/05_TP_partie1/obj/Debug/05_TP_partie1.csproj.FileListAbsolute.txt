@@ -1,0 +1,7 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\bin\Debug\05_TP_partie1.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\bin\Debug\05_TP_partie1.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\bin\Debug\05_TP_partie1.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\obj\Debug\05_TP_partie1.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\obj\Debug\05_TP_partie1.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\obj\Debug\05_TP_partie1.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\05_TP_partie1\obj\Debug\05_TP_partie1.pdb

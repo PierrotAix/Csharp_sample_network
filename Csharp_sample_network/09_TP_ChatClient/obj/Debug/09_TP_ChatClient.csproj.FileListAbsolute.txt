@@ -1,0 +1,10 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\bin\Debug\09_TP_ChatClient.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\bin\Debug\09_TP_ChatClient.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\bin\Debug\09_TP_ChatClient.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\09_TP_ChatClient.csprojAssemblyReference.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\_09_TP_ChatClient.FrmClient.resources
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\_09_TP_ChatClient.Properties.Resources.resources
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\09_TP_ChatClient.csproj.GenerateResource.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\09_TP_ChatClient.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\09_TP_ChatClient.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\09_TP_ChatClient\obj\Debug\09_TP_ChatClient.pdb

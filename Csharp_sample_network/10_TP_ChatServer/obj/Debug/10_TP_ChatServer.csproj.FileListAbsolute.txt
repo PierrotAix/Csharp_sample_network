@@ -1,0 +1,9 @@
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\bin\Debug\10_TP_ChatServer.exe.config
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\bin\Debug\10_TP_ChatServer.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\bin\Debug\10_TP_ChatServer.pdb
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\_10_TP_ChatServer.FrmServer.resources
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\_10_TP_ChatServer.Properties.Resources.resources
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\10_TP_ChatServer.csproj.GenerateResource.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\10_TP_ChatServer.csproj.CoreCompileInputs.cache
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\10_TP_ChatServer.exe
+D:\BITBUCKET\demo\Csharp_sample_network\Csharp_sample_network\10_TP_ChatServer\obj\Debug\10_TP_ChatServer.pdb
